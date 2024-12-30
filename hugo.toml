@@ -44,7 +44,7 @@ paginate     = 10
 
     [languages.en.params.logo]
       logoText = "Focuznl"
-      logoHomeLink = "/"
+      logoHomeLink = "/Gitarchive"
     # or
     #
     # path = "/img/your-example-logo.svg"
