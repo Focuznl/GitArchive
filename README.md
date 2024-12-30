@@ -1,10 +1,3 @@
----
-title: GitArchive
-date: 12/30/2024
-tags:
-  - Website
----
-___
 # Github archive by Focuznl
 this is a [Github Pages](https://pages.github.com/) project that has an online vault to show my repositories in a unique way
 This website includes:
