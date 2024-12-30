@@ -14,8 +14,8 @@ ___
 This repository is not and will never be done since i keep updating the website with blogs and other stuff. This repository will also act like my home page.
 
 
-# Link to website: 
-["GitArchive"](https://focuznl.github.io/GitArchive)
+# Link to project: 
+["GitArchive"](https://github.com/focuznl/GitArchive)
 
 ___
 # special thanks⭐
