@@ -24,7 +24,7 @@ he made the theme that i use
 -  the theme repository: [hfng](https://github.com/rhazdon/hugo-theme-hello-friend-ng)
 
 ### This website was created with Hugo
-**More about hugo? see gohugo.io **
+**More about hugo? see [gohugo.io](https://gohugo.io)**
 
 ___
 
